@@ -1,0 +1,42 @@
+{
+  "name": "react-redux-optional-snippets",
+  "description": "Code snippets for js/ts developers who want to write comments well.",
+  "version": "0.0.2",
+  "displayName": "React/Redux optional snippets",
+  "publisher": "LEE-YO-HAN",
+  "icon": "image/logo.png",
+  "galleryBanner": {
+    "theme": "light"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToyCode-org/optional-React-Redux-snippet"
+  },
+  "engines": {
+    "vscode": "1.74.3"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  }
+}
