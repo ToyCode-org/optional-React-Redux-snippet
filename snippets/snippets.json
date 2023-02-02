@@ -41,6 +41,11 @@
     "body": ["useEffect(() => {", "  $1", "}, [])"],
     "scope": "typescript,typescriptreact,javascript,javascriptreact"
   },
+  "useRef start": {
+    "prefix": "urr",
+    "body": ["const $Name = useRef()"],
+    "scope": "typescript,typescriptreact,javascript,javascriptreact"
+  },
   "useCallback start": {
     "prefix": "ucc",
     "body": ["useCallback(() => {", "  $1", "}, [])"],

@@ -1,23 +1,41 @@
 {
   "name": "react-redux-optional-snippets",
-  "description": "Code snippets for js/ts developers who want to write comments well.",
-  "version": "0.0.2",
   "displayName": "React/Redux optional snippets",
+  "version": "0.0.4",
   "publisher": "LEE-YO-HAN",
+  "description": "Code snippets for js/ts developers who want to write comments well.",
+  "author": {
+    "name": "JoneLee"
+  },
+  "categories": [
+    "Snippets"
+  ],
   "icon": "image/logo.png",
   "galleryBanner": {
-    "theme": "light"
-  },
-  "license": "SEE LICENSE IN LICENSE.md",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ToyCode-org/optional-React-Redux-snippet"
+    "color": "#000000",
+    "theme": "dark"
   },
   "engines": {
     "vscode": "1.74.3"
   },
-  "categories": [
-    "Snippets"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ToyCode-org/optional-React-Redux-snippet/issues",
+    "email": "yhl0078@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ToyCode-org/optional-React-Redux-snippet"
+  },
+  "homepage": "https://github.com/ToyCode-org/optional-React-Redux-snippet",
+  "keywords": [
+    "snippets",
+    "react",
+    "redux",
+    "react-native",
+    "customizable",
+    "javascript",
+    "typescript"
   ],
   "contributes": {
     "snippets": [
@@ -38,5 +56,9 @@
         "path": "./snippets/snippets.json"
       }
     ]
+  },
+  "dependencies": {
+    "generator-code": "^1.7.3",
+    "yo": "^4.3.1"
   }
 }
