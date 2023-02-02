@@ -1,4 +1,4 @@
-<a href="https://marketplace.visualstudio.com/items?itemName=LEE-YO-HAN.react-redux-optional-snippets">Marketplace</a>
+<a href="https://marketplace.visualstudio.com/items?itemName=LEE-YO-HAN.react-redux-optional-snippets">Marketplace</a><span> /</span> <a href="https://github.com/ToyCode-org/optional-React-Redux-snippet/blob/main/docs/docs.md">Usage</a>
 
 # React/Redux optional snippets
 
