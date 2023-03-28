@@ -10,6 +10,19 @@ console.log({typing here})
 console.log({typing here})
 ```
 
+## higher order function
+
+```javascript
+//type hog
+// fir : array name
+// src : function name
+// thr : callback
+// if don't want change array/method name, just type TAB key
+
+array.map((value,index)=>(type here))
+
+```
+
 ## Functions
 
 ```javascript

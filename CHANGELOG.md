@@ -1,4 +1,19 @@
-version: 0.0.5 : extention init for some react hooks and redux template
+version: 0.0.8 : add higher order function
+
+# higher order function
+
+```javascript
+//type hog
+// fir : array name
+// src : function name
+// thr : callback
+// if don't want change array/method name, just type TAB key
+
+array.map((value,index)=>(type here))
+
+```
+
+version: 0.0.5 : add console
 
 # Add console
 

@@ -1,7 +1,7 @@
 {
   "name": "react-redux-optional-snippets",
   "displayName": "React/Redux optional snippets",
-  "version": "0.0.5",
+  "version": "0.0.8",
   "publisher": "LEE-YO-HAN",
   "description": "Code snippets for js/ts developers who want to write comments well.",
   "author": {
@@ -16,7 +16,7 @@
     "theme": "dark"
   },
   "engines": {
-    "vscode": "1.74.3"
+    "vscode": "1.76.2"
   },
   "license": "MIT",
   "bugs": {

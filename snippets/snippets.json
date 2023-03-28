@@ -9,6 +9,11 @@
     "body": ["console.time($1)"],
     "scope": "typescript,typescriptreact,javascript,javascriptreact"
   },
+  "higher order function": {
+    "prefix": "hof",
+    "body": ["${1:array}.${2:map}((value,index)=>$0)"],
+    "scope": "typescript,typescriptreact,javascript,javascriptreact"
+  },
   "export default component": {
     "prefix": "edcf",
     "body": [
