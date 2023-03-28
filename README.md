@@ -38,7 +38,7 @@ code --install-extension LEE-YO-HAN.react-redux-optional-snippets
 
 # Current Support Features
 
-Currently, functional components, arrow functions, some react hooks, and Provides a store for the Reader's Toolkit, a slice template (with AsyncThunk).
+Currently, functional components, arrow functions, some react hooks, and Provides a store for the Redex Toolkit, a slice template (with AsyncThunk).
 In the future, we will update snippets and templates that can minimize repetitive tasks and various versions such as saga.
 
 ps. this snippets is best used with ES7+ React/Redux/React-Native/JS snippets
@@ -49,7 +49,19 @@ Here's how to use it.
 
 <br>
 
-## for functions
+## Console
+
+```javascript
+//type clog
+console.log({typing here})
+
+//type ctime
+console.log({typing here})
+```
+
+<br><br>
+
+## functions
 
 ```javascript
 // type edcf
@@ -82,7 +94,7 @@ For a function snippets, you just need to type a function name after type a keyw
 
 <br><br>
 
-## for React Hooks
+## React Hooks
 
 ```javascript
 // type urr
@@ -113,7 +125,7 @@ For useState and useRef also you just need to type a function name after type a 
 
 <br><br>
 
-## for Redux Template
+## Redux Template
 
 ```javascript
 // rdxstore

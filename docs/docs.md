@@ -1,6 +1,16 @@
 # Usage
 
-## for functions
+## Console
+
+```javascript
+//type clog
+console.log({typing here})
+
+//type ctime
+console.log({typing here})
+```
+
+## Functions
 
 ```javascript
 // type edcf
@@ -33,7 +43,7 @@ For a function snippets, you just need to type a function name after type a keyw
 
 <br><br>
 
-## for React Hooks
+## React Hooks
 
 ```javascript
 // type urr
@@ -64,7 +74,7 @@ For useState and useRef also you just need to type a function name after type a 
 
 <br><br>
 
-## for Redux Template
+## Redux Template
 
 ```javascript
 // rdxstore

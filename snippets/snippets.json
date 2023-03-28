@@ -1,4 +1,14 @@
 {
+  "console log": {
+    "prefix": "clog",
+    "body": ["console.log($1)"],
+    "scope": "typescript,typescriptreact,javascript,javascriptreact"
+  },
+  "console time": {
+    "prefix": "ctime",
+    "body": ["console.time($1)"],
+    "scope": "typescript,typescriptreact,javascript,javascriptreact"
+  },
   "export default component": {
     "prefix": "edcf",
     "body": [

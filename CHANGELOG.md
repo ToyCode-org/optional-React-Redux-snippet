@@ -1,3 +1,21 @@
+version: 0.0.5 : extention init for some react hooks and redux template
+
+# Add console
+
+```javascript
+//type clog
+console.log({typing here})
+
+//type ctime
+console.log({typing here})
+```
+
+<br/>
+
+---
+
+<br/><br/>
+
 version: 0.0.4 : extention init for some react hooks and redux template
 
 # Current Support Features
